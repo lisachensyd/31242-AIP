@@ -1,0 +1,22 @@
+{
+  "name": "aip-week1",
+  "version": "1.0.0",
+  "description": "on my lapotp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisachensyd/31242-AIP.git"
+  },
+  "author": "Lisa Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisachensyd/31242-AIP/issues"
+  },
+  "homepage": "https://github.com/lisachensyd/31242-AIP#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
